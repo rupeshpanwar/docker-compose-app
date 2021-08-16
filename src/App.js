@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello DevOps masterclass!!!
+          Hello DevOps master!!!
         </a>
       </header>
     </div>
